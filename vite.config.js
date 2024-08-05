@@ -3,8 +3,7 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: "/my-own-crypto",
   plugins: [react()],
-  base: "/my-own-crypto/", // YOUR REPO NAME HERE
-
 })
 
