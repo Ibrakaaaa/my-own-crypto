@@ -124,7 +124,6 @@ export default function Coin() {
                         }}>
                         
                         </p>
-
                     </div>
         </div>
     </div>
